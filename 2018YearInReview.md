@@ -55,6 +55,10 @@ This meeting was another good variety of topics. I'm glad that long-time member 
 This was presentation had a record-setting number of RSVP's. Mark gave us the "meat and potatoes" on React and Redux. Mark has soo much knowledge to share, we couldn't keep it into one hour. I wish I could have recorded this presentation for refereence.
 ~~~
 2/7/2018 [Creating Prefixy - A case study on creating and building an open source project](https://www.meetup.com/dayton-web-developers/events/ndsqfnyxdbkb/) Jay Shenk  
+~~~
+Jay shared with us is experince starting an open source project and building the Prefixy application. I found it encouraging for those that dream of bringing an open source project to life.
+~~~
+
 1/3/2018 [After Holidays Social](https://www.meetup.com/dayton-web-developers/events/ndsqfnyxcbfb/)
 ~~~
 This time last year we got together at Brixx Ice Company. We had about 15 people join together to socalize and share stories. It was good to get to know the members at this annual event. 
