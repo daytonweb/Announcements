@@ -20,7 +20,7 @@ Sara always has great information to share. Her presentation shows the value of 
 ~~~
 This was a great presentation! Michael hit a 'home run' with his lecture/lab format. Everyone who attended walked away with a better understanding of web accessibility.
 ~~~
-8/1/2018 [Lightning Talk #10])https://www.meetup.com/dayton-web-developers/events/ndsqfnyxlbcb/)  
+8/1/2018 [Lightning Talk #10](https://www.meetup.com/dayton-web-developers/events/ndsqfnyxlbcb/)  
 	- Melissa Thompson - Service Workers  
 	- Josh Fischer - HTML5 App  
 	- Nate Denlinger - Intro to the Go language  
